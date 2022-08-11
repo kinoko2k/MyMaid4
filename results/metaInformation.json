@@ -1,0 +1,18 @@
+{
+  "total": 3,
+  "tools inspection": {
+    "Code Inspection": 3
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/kinoko2k/MyMaid4",
+        "revisionId": "bafc57c247bdd9da09bfae0891ee30bfa88a46e5",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-7a3f-2c17-d61c-9c32e595ee80",
+    "jobUrl": "https://github.com/kinoko2k/MyMaid4/actions/runs/2839392845",
+    "repoUrl": "https://github.com/kinoko2k/MyMaid4"
+  }
+}
